@@ -6,7 +6,7 @@
 brew install kafka
 ```
 
-- Installation paht
+- Installation path
 
 ```
 /usr/local/Cellar/zookeeper
