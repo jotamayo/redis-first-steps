@@ -19,3 +19,10 @@ brew install kafka
 /usr/local/etc/kafka/server.properties
 /usr/local/etc/kafka/zookeeper.properties
 ```
+
+- Running zookeeper and kafka with brwe
+
+```
+brew services start zookeeper
+brew services start kafka
+```
