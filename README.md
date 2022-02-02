@@ -26,3 +26,12 @@ brew install kafka
 brew services start zookeeper
 brew services start kafka
 ```
+
+- View list service
+
+```
+brew services list
+
+kafka          started main ~/Library/LaunchAgents/homebrew.mxcl.kafka.plist
+zookeeper      started main ~/Library/LaunchAgents/homebrew.mxcl.zookeeper.plist
+```
